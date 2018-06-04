@@ -1,0 +1,43 @@
+ul{
+	background-color:white;
+	margin:0px;
+	padding:0px;
+}
+li{
+	background-color:white;
+	margin:0px;
+	padding:0px;
+	display: inline;
+}
+.box{
+	display:inline-block;
+	width:40%;
+}
+img{
+	width:60%;
+	padding:0px;
+	margin:0px;
+	border:0px;
+}
+.html{
+	background-color:#2BA8E0;
+}
+.css{
+	background-color: #EE6526;
+}
+body{
+	text-align:center;
+}
+.circle{
+	display:block;
+	background-color: pink;
+	width:350px;
+	height:350px;
+	border-radius:50%;
+}
+.empty{
+	display:block;
+	width:100px;
+	height:100px;
+	background-color:black;
+}
